@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SearchTap</id>
+    <version>0.1.1</version>
+    <title>SearchTap Client</title>
+    <authors>Tech@SearchTap</authors>
+    <owners>SearchTap</owners>
+    <licenseUrl>https://github.com/searchtap/searchtap-net-client/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/searchtap/searchtap-net-client</projectUrl>
+    <iconUrl>https://www.searchtap.io/img/favicon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SearchTap is a hosted search solution for website, mobile apps and e-commerce platforms.</description>
+    <releaseNotes>Added Index Method</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>SearchTap, Fast Search, SaaS for Search, Hosted Search</tags>
+  </metadata>
+</package>
